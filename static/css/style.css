@@ -41,6 +41,8 @@ p {
 .header-bar a {
     color: rgb(247, 247, 247);
     text-decoration: none;
+    position: absolute;
+    display: contents;
 }
 
 .task-wrapper {
