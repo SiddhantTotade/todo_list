@@ -45,8 +45,8 @@ p {
 .header-bar a {
     color: rgb(162, 8, 8);
     text-decoration: none;
-    /* position: absolute; */
-    /* display: contents; */
+    position: absolute;
+    display: contents;
 }
 
 .task-wrapper {
