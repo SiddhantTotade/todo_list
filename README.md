@@ -4,5 +4,6 @@
 + You can manipulate your daily tasks.
 + Frontend work using HCJ (HTML, CSS, JS).
 + Backend work using Django.
++ This site is responsive (access with your mobiles, tablets and desktops).
 + Database use - DB SQLite (Python Django default Database)
 + Access this application - https://my-work-list.herokuapp.com/login
