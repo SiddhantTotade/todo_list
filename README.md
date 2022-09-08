@@ -1,6 +1,11 @@
 ## Getting Started
 # Todo_List
-* Clone this repository in your system or PC. use command `git clone `
+* Create a folder or directory and clone this repository inside it. use command `git clone git@github.com:SiddhantTotade/todo_list.git`
+* Open a terminal and type command `pyhton manage.py runserver`. This will run python server locally and make sure that you are in the same directory in which the file `manage.py` is located.
+
+### That's it
+#### Enjoy
+##### 
 
 
 
